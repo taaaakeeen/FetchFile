@@ -1,0 +1,1 @@
+pyinstaller fetch_file.py --name FetchFile.exe --onefile --icon=FetchFile.ico
